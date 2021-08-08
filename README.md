@@ -14,8 +14,13 @@ Details includes:
 9. Review Age
 
 ## Demo
+### Home Page
+![image](https://user-images.githubusercontent.com/56411633/128640129-2c62f8ce-8e15-44f5-917d-54979372ce7c.png)
 
-Insert gif or link to demo
+### Result
+![image](https://user-images.githubusercontent.com/56411633/128640178-568e2d4e-a8c6-4000-83a8-df1d99b0505d.png)
+
+
 
   
 ## Tech Stack
@@ -27,3 +32,5 @@ Insert gif or link to demo
 **Database:** MongoDB
 
 **Programming Lang:** Python
+
+**Hosting Platform:** Heroku
